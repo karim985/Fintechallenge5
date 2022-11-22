@@ -35,11 +35,11 @@ to successfully use this file we need to download and set up the folowing progra
 ## Usage
 The following image shows the histogram plot resulting from a simulation with these characteristics. However, because a random number generator is used to run each live Monte Carlo simulation, your image will differ slightly from this exact image:
 
-![graph](../Fintechallenge5/Images/5-4-monte-carlo-histogram.png)
+![graph](https://github.com/karim985/Fintechallenge5/blob/main/Images/5-4-monte-carlo-histogram.png)
 
 Run a Monte Carlo simulation of 500 samples and 30 years for the 60/40 portfolio, and then plot the results.The following image shows the overlay line plot resulting from a simulation with these characteristics. However, because a random number generator is used to run each live Monte Carlo simulation, your image will differ slightly from this exact image:
 
-![graph](../Fintechallenge5/Images/5-4-monte-carlo-line-plot.png)
+![graph](https://github.com/karim985/Fintechallenge5/blob/main/Images/5-4-monte-carlo-line-plot.png)
 
 ### Contributer 
 
